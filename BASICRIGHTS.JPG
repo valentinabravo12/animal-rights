@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1 class="basic-rights"> What are basic animal rights?</h1>
+    <img class="top-img" src="saveanimals.jpg" alt="save animals">
+    <p>basic animal rights are life, liberty, and freedom from torture. Animals should be able to be free from the experiments from humans and shouldnt have to worry about their welfare because of the fact that people constantly abuse them. Animals should have similar rights to humans as they also have feelings, they experience pain and have emotions. Its only their right to be free</p>
+    <h6> From: Adobe Stocks</h6>
+    <a href="index.html"> Go back </a> 
+
+  </body>
+</html>
